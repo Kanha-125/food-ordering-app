@@ -1,0 +1,105 @@
+{
+  "id": "272239",
+  "name": "EatFit",
+  "cloudinaryImageId": "94d3bc5e6392fbaf50686cf8cfab10ef",
+  "locality": "6th Block",
+  "areaName": "Koramangala",
+  "costForTwo": "₹270 for two",
+  "cuisines": [
+    "Chinese",
+    "Healthy Food",
+    "Tandoor",
+    "Pizzas",
+    "North Indian",
+    "Thalis",
+    "Biryani"
+  ],
+  "avgRating": 4.4,
+  "feeDetails": {
+    "restaurantId": "272239",
+    "fees": [
+      {
+        "name": "BASE_DISTANCE",
+        "fee": 2700
+      },
+      {
+        "name": "BASE_TIME"
+      },
+      {
+        "name": "ANCILLARY_SURGE_FEE"
+      }
+    ],
+    "totalFee": 2700
+  },
+  "parentId": "76139",
+  "avgRatingString": "4.4",
+  "totalRatingsString": "5K+",
+  "sla": {
+    "deliveryTime": 15,
+    "lastMileTravel": 0.9,
+    "serviceability": "SERVICEABLE",
+    "slaString": "15 mins",
+    "lastMileTravelString": "0.9 km",
+    "iconType": "ICON_TYPE_EMPTY"
+  },
+  "availability": {
+    "nextCloseTime": "2023-08-07 23:59:00",
+    "opened": true
+  },
+  "badges": {
+    "textExtendedBadges": [
+      {
+        "iconId": "guiltfree/GF_Logo_android_3x",
+        "shortDescription": "brand",
+        "fontColor": "#7E808C"
+      }
+    ]
+  },
+  "isOpen": true,
+  "type": "F",
+  "badgesV2": {
+    "entityBadges": {
+      "imageBased": {},
+      "textBased": {},
+      "textExtendedBadges": {
+        "badgeObject": [
+          {
+            "attributes": {
+              "description": "",
+              "fontColor": "#7E808C",
+              "iconId": "guiltfree/GF_Logo_android_3x",
+              "shortDescription": "brand"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "aggregatedDiscountInfoV3": {
+    "header": "40% OFF",
+    "subHeader": "UPTO ₹80",
+    "discountCalloutInfo": {
+      "message": "Free Delivery",
+      "logoCtx": {
+        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+      }
+    }
+  },
+  "orderabilityCommunication": {
+    "title": {},
+    "subTitle": {},
+    "message": {},
+    "customIcon": {}
+  },
+  "differentiatedUi": {
+    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+    "differentiatedUiMediaDetails": {
+      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+      "lottie": {},
+      "video": {}
+    }
+  },
+  "reviewsSummary": {},
+  "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+  "restaurantOfferPresentationInfo": {}
+}
